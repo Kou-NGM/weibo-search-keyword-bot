@@ -13,7 +13,7 @@ This code allows you to scrape Weibo tweets related to the searched keywords wit
 # Requirement
 
 Programming languages 
-* Python
+* Python(Jupyter Notebook)
 
 Module
 * selenium
