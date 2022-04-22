@@ -33,8 +33,6 @@ The application is used for login authentication.
 
 # Installation
  
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
 ```bash
 pip install selenium
 pip install time
