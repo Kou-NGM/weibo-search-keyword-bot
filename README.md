@@ -60,7 +60,7 @@ Once you have executed the code, click on the Weibo icon and follow the on-scree
 Your smartphone (Weibo app) will be used to authenticate your login.
 
 ```bash
-https://github.com/Kou-NGM/weibo-search-keyword-bot
+git clone https://github.com/Kou-NGM/weibo-search-keyword-bot
 ```
  
 # Note
