@@ -18,12 +18,12 @@ Programming languages 
 Module
 * selenium
 * time
-*bs4
-*random
-*csv
-*numpy
-*tkinter
-*os
+* bs4
+* random
+* csv
+* numpy
+* tkinter
+* os
 
 App
 あなたの使用しているスマートフォンにWeiboをインストールし，アカウントを作成しておいてください.
@@ -60,7 +60,7 @@ Once you have executed the code, click on the Weibo icon and follow the on-scree
 Your smartphone (Weibo app) will be used to authenticate your login.
 
 ```bash
-git clone https://github.com/weibo-search-keyword-bot
+https://github.com/Kou-NGM/weibo-search-keyword-bot
 ```
  
 # Note
