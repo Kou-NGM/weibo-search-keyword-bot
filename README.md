@@ -70,7 +70,7 @@ Please do not change and use anything that will overload Weibo's servers.
  
 # Author
  
-* Ko Nagumo 南雲　航
+* Ko Nagumo航南雲
 * Niigata University
 
  
