@@ -49,8 +49,6 @@ pip install os
 ```
  
 # Usage
- 
- 
 まずは，githubから私のフォルダをクローンしてください．  
 コードを実行したら，Weiboアイコンをクリックして，画面の指示に従ってください．  
 ログイン認証の際に，あなたのスマートフォン（Weiboアプリ）を使用します．  
@@ -64,7 +62,6 @@ git clone https://github.com/Kou-NGM/weibo-search-keyword-bot
 ```
  
 # Note
- 
 くれぐれもWeibo社のサーバーに負担をかけるような変更・使用はやめてください．  
 Please do not change and use anything that will overload Weibo's servers.
  
