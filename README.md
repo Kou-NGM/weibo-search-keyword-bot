@@ -31,18 +31,6 @@ App
 Please install Weibo on your smartphone and create the account.
 The application is used for login authentication.
 
-# Installation
- 
-```bash
-pip install selenium
-pip install time
-pip3 install bs4
-pip install random
-pip install csv
-pip install numpy
-pip install tkinter
-pip install os
-```
  
 # Installation
 bs4をインストール際はpip3と入力しないとエラーが発生するため注意してください．
