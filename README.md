@@ -12,10 +12,10 @@ This code allows you to scrape Weibo tweets related to the searched keywords wit
 
 # Requirement
 
-##Programming languages 
+## Programming languages 
 * Python(Jupyter Notebook)
 
-##Module
+## Module
 * selenium
 * time
 * bs4
@@ -25,7 +25,7 @@ This code allows you to scrape Weibo tweets related to the searched keywords wit
 * tkinter
 * os
 
-##App
+## App
 あなたの使用しているスマートフォンにWeiboをインストールし，アカウントを作成しておいてください.  
 そのアプリはログイン認証を行う際に使用します．  
 Please install Weibo on your smartphone and create the account.  
