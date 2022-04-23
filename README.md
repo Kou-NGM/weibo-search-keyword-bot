@@ -33,13 +33,11 @@ The application is used for login authentication.
 
 ## Driver
 chromedriverをインストールする必要があります。  
-https://chromedriver.chromium.org/downloads. 
-
+https://chromedriver.chromium.org/downloads.  
 お使いのChromeのバージョンに合わせて、上記のURLからインストールして、クローンしたフォルダの中にドラッグしてください。
 
  You will need to install chromedriver.  
-https://chromedriver.chromium.org/downloads
-
+https://chromedriver.chromium.org/downloads. 
 Depending on the version of Chrome you are using, install it from the URL above and drag it into the cloned folder.
 
 
