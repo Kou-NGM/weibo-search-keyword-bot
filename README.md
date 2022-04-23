@@ -31,7 +31,16 @@ This code allows you to scrape Weibo tweets related to the searched keywords wit
 Please install Weibo on your smartphone and create the account.  
 The application is used for login authentication.
 
- 
+## Driver
+chromedriverをインストールする必要があります。  
+https://chromedriver.chromium.org/downloads. 
+お使いのChromeのバージョンに合わせて、上記のURLからインストールして、クローンしたフォルダの中にドラッグしてください。
+
+ You will need to install chromedriver.  
+https://chromedriver.chromium.org/downloads
+Depending on the version of Chrome you are using, install it from the URL above and drag it into the cloned folder.
+
+
 # Installation
 bs4をインストール際はpip3と入力しないとエラーが発生するため注意してください．  
 Note that an error will occur if you do not type pip3 when installing bs4.
